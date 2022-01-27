@@ -1,0 +1,19 @@
+{
+    "name": "ICEBEAR",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5AfeJNZ8oodHmWwveg3BYKsSzFJQSvKk6yHQ6TN56UhJ",
+          "share": 100
+        }
+      ]
+    }
+  }
